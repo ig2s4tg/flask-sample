@@ -6,9 +6,9 @@
 {% endblock %}
 {% block content %}
 {% if session["name"] %}
-<h1>
+<h2>
 Hi, {{session["name"]}}! <br>
-</h1>
+</h2>
 <a href="/logout">forget me</a>
 {% else %}
 <form action="" method="post" name="index">
