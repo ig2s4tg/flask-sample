@@ -1,7 +1,7 @@
 ###This is a flask structure that I like to use. There will be README’s in most of the directories explaining what they do.
 
 
-This is designed with Ubuntu 12.04.4 in mind but should work on just about everything except Windows. You’re going to need Python and pip as well.
+This is designed with Ubuntu 12.04.4 on but should work on just about everything except Windows. You’re going to need Python and pip as well.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
